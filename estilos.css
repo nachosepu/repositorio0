@@ -3,8 +3,6 @@
     padding: 0;
 }
 
-.pagina1{
-    background-image: url(imagenes/fondo2.jpg);
-    background-position: center;
-    background-size: cover;
+.conteiner{
+    background-color: black;
 }
